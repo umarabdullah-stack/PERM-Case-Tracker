@@ -20,3 +20,13 @@ nano <location>/perm_tracker.py
 - Enable 2FA
 - Create "App Password"
 - Use that password instead of the real password
+
+
+
+# ----------------------------------------------------------------------------------
+STEP 4: CREATE YOUR SCRIPT (perm_tracker.py)
+
+
+
+# ----------------------------------------------------------------------------------
+STEP 5: USE LAUNCHD/SCHEDULER TO AUTOMATE TRACKING (com.permstatus.plist)
